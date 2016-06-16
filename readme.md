@@ -1,0 +1,1 @@
+# Custom Media Provider for CDN transformations
